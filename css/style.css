@@ -1,0 +1,25 @@
+body{
+background-color: rgba(34, 34, 34, 0.623);
+
+
+}
+.dataApi{
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.main-section{
+margin: 25px;
+height: 400px;
+overflow: hidden;
+
+}
+.main-section img{
+
+
+max-height: 200px;
+
+}
